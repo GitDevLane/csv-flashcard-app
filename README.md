@@ -80,9 +80,12 @@ Then the rest can be:
 question,answer example:
 A step-by-step procedure to solve a problem,Algorithm
 
-
 Hola,Hello
 Uno,One
+
+## 📸 Screenshot
+
+![Flashcard App](flashcard_app_example.png)
 
 ---------------------------------------------------------------------------------------------
 You can create your own decks by adding new CSV files.
