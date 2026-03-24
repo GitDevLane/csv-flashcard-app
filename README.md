@@ -44,8 +44,8 @@ You need the main.py and .png files or the app wont work.
 
 The CSV files are optional but no CSV files means nothing to load.
 
-All these files need to be in the same folder.
-
+All required files should be in the correct directory structure for the app to run properly.
+```
 FLASH_CARD_APP
 ├── main.py
 ├── ReadMe.txt
@@ -59,7 +59,7 @@ FLASH_CARD_APP
 ├── flip.png
 ├── next.png
 ├── Random_On.png
-├── Random_Off.png
+└── Random_Off.png
 
 ## How to Run
 
