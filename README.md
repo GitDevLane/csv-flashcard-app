@@ -82,7 +82,9 @@ Definition,Term
 
 Then the rest can be:
 
-question,answer example:
+question,answer 
+
+Example:
 
 A step-by-step procedure to solve a problem,Algorithm
 
