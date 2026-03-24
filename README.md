@@ -60,7 +60,7 @@ FLASH_CARD_APP
 ├── next.png
 ├── Random_On.png
 └── Random_Off.png
-
+```
 ## How to Run
 
 Make sure you have Python installed.
