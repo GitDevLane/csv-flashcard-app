@@ -40,9 +40,11 @@ Deck 2 (Term → Definition) good for reinforcement
 ---
 
 ## Project Structure 
-(^ needs work to make it more module in the future like separating logic/UI)
+You need the main.py and .png files or the app wont work.
+The CSV files are optional but no CSV files means nothing to load.
+A these files need to be in the same folder.
 
-FLASH_CARD_APP/
+FLASH_CARD_APP
 ├── main.py
 ├── ReadMe.txt
 ├── C949_DSA.csv
@@ -50,7 +52,6 @@ FLASH_CARD_APP/
 ├── Spanish_CH1.csv
 ├── Spanish_Nouns.csv
 ├── Spanish_Numbers.csv
-├── Alphabet/
 ├── card_front.png
 ├── card_back.png
 ├── flip.png
