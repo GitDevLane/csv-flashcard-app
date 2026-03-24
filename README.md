@@ -41,8 +41,10 @@ Deck 2 (Term → Definition) good for reinforcement
 
 ## Project Structure 
 You need the main.py and .png files or the app wont work.
+
 The CSV files are optional but no CSV files means nothing to load.
-A these files need to be in the same folder.
+
+All these files need to be in the same folder.
 
 FLASH_CARD_APP
 ├── main.py
