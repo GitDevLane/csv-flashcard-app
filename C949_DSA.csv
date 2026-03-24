@@ -1,0 +1,65 @@
+C949 Definition,C949 Term
+A step-by-step procedure to solve a problem,Algorithm
+A way of organizing and storing data for efficient access,Data Structure
+Measures how runtime grows with input size (Big-O),Time Complexity
+Measures memory usage relative to input size,Space Complexity
+Describes the upper bound of algorithm growth,Big-O Notation
+Constant time complexity,O(1)
+Logarithmic time complexity,O(log n)
+Linear time complexity,O(n)
+Linearithmic time complexity,O(n log n)
+Quadratic time complexity,O(n^2)
+A collection of elements stored in contiguous memory,Array
+A sequence of nodes where each points to the next,Linked List
+A basic unit containing data and a reference,Node
+LIFO (Last In First Out) structure,Stack
+FIFO (First In First Out) structure,Queue
+A double-ended queue,Deque
+Maps keys to values using a hash function,Hash Table
+Converts a key into an index,Hash Function
+When two keys map to same index,Collision
+Uses linked lists to handle collisions,Chaining
+Probes for next open slot,Open Addressing
+Checks next sequential slot,Linear Probing
+Uses quadratic intervals for probing,Quadratic Probing
+Uses second hash to resolve collisions,Double Hashing
+Ratio of filled slots to total slots,Load Factor
+Search that repeatedly halves data,Binary Search
+Function calling itself,Recursion
+Stops recursion,Base Case
+Recursive call portion,Recursive Case
+Breaks problem into smaller parts,Divide and Conquer
+Sorting algorithm O(n log n) using merging,Merge Sort
+Sorting using pivot partitioning,Quick Sort
+Compares adjacent elements,Bubble Sort
+Selects smallest and swaps,Selection Sort
+Builds sorted list one at a time,Insertion Sort
+Complete binary tree for priority queues,Heap
+Parent smaller than children,Min Heap
+Parent larger than children,Max Heap
+Hierarchical data structure,Tree
+Each node has at most two children,Binary Tree
+Left < Root < Right,Binary Search Tree
+Maintains minimal height,Balanced Tree
+Self-balancing BST using rotations,AVL Tree
+Self-balancing tree with color rules,Red-Black Tree
+Vertices connected by edges,Graph
+Node in a graph,Vertex
+Connection between vertices,Edge
+Edges have direction,Directed Graph
+Edges have no direction,Undirected Graph
+Level-by-level traversal using queue,Breadth-First Search
+Deep traversal using stack,Depth-First Search
+2D array for graph connections,Adjacency Matrix
+List representation of graph connections,Adjacency List
+Stores subproblem results,Dynamic Programming
+Caches function results,Memoization
+Makes locally optimal choices at each step,Greedy Algorithm
+Optimization problem with weight/value,Knapsack Problem
+Items taken or not taken,0/1 Knapsack
+Items can be divided,Fractional Knapsack
+Longest shared sequence between strings,Longest Common Subsequence
+Table used for LCS,LCS Matrix
+Arranging elements in order,Sorting
+Finding an element,Searching
+Visiting all elements,Traversal
