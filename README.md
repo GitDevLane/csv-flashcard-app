@@ -46,7 +46,7 @@ The CSV files are optional but no CSV files means nothing to load.
 
 All required files should be in the correct directory structure for the app to run properly.
 ```
-FLASH_CARD_APP
+FLASH_CARD_APP (Folder)
 ├── main.py
 ├── ReadMe.txt
 ├── C949_DSA.csv
