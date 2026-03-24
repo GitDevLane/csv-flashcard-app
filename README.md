@@ -67,7 +67,8 @@ Make sure you have Python installed.
 You may want to run main.py in VS Code.
 The main.py and png files are required in the filefolder. 
 You can make your own .CSV files and place them in the folder.
-ChatGPT can also make the CSV file for you.  
+
+ChatGPT can also format the CSV file for you.  
 
 ## CSV Format
 
