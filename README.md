@@ -113,7 +113,7 @@ You can create your own decks by adding new CSV files.
 
 ## Future Improvements
 
-- Score tracking
+- End or complete at finish
 - Category filtering
 - Better UI styling
 - Deck selection menu
