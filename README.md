@@ -81,10 +81,13 @@ or
 Definition,Term
 
 Then the rest can be:
+
 question,answer example:
+
 A step-by-step procedure to solve a problem,Algorithm
 
 Hola,Hello
+
 Uno,One
 
 ## 📸 Screenshot
